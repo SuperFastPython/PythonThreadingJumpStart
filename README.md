@@ -15,6 +15,17 @@ You can access all Python .py files directly here:
 * [src/](src/)
 
 
+## Get the Book
+
+You can learn more about the book here:
+
+* [Gumroad](https://superfastpython.gumroad.com/l/ptj)
+* [Amazon Paperback](https://amzn.to/3Q4BU54)
+* [Amazon Kindle](https://amzn.to/3Sn9x3w)
+* [GooglePlay](https://play.google.com/store/books/details?id=m0V_EAAAQBAJ)
+* [GoogleBooks](https://books.google.com/books/about?id=m0V_EAAAQBAJ)
+* [Goodreads](https://www.goodreads.com/book/show/61863433-python-threading-jump-start)
+
 
 ### Book Blurb
 
